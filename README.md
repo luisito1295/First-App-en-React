@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Can run next command for install of package of nodejs
 
-###`npm install`
+### `npm install`
 
 In the project directory, you can run:
 
