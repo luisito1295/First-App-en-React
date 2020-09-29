@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Can run next command for install of package of nodejs
+
+###`npm install`
+
 In the project directory, you can run:
 
 ### `yarn start`
